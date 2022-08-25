@@ -55,7 +55,7 @@ NLP landscape with a brief explanation of 33 common NLP tasks. I will try to mak
 - Grammatical Error Correction: correcting different kinds of errors in text such as spelling, punctuation, grammatical, and word choice errors.
 - Feature Extraction: extraction of generic numerical features from text, usually embeddings.
 
-# Awesome 20 popular NLP libraries os 2022
+# Awesome 20 popular NLP libraries of 2022
 
 Here is the list of top libraries, sorted by their number of GitHub stars.
 
