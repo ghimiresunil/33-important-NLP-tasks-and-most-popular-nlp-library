@@ -158,3 +158,6 @@ Here is the list of top libraries, sorted by their number of GitHub stars.
 -  496 GitHub stars.
 - Rosetta is a privacy-preserving framework based on TensorFlow. It integrates with mainstream privacy-preserving computation technologies, including cryptography, federated learning, and trusted execution environment. Rosetta reuses the APIs of TensorFlow and allows the transfer of traditional TensorFlow codes into a privacy-preserving manner with minimal changes.
 - Currently updated.
+
+## Contribution
+Contributions are very welcome! Please submit a pull request on GitHub.
